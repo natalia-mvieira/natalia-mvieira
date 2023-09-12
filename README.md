@@ -1,11 +1,8 @@
-### Hi there 👋
+### Olá! Eu sou a Natália! 👋🏻
 
-- 🔭 I’m currently studying Physics at University of São Paulo (USP).
-- 🌱 I’m currently learning back-end and data science with Python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ideas for nice new projects.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente, sou aluna de graduação em Física Bacharelado pela USP
+- 🌱 Estou estudando back-end e ciência de dados, com foco em Python
+- 📫 Contato: nataliacs_mv@hotmail.com
+- 😄 Pronomes: ela/dela
+- 🪐 Tenho uma paixão por Astronomia, que é o que me levou a cursar Física
+- 🎨 Extra: no meu tempo livre, gosto de pintar com guache
